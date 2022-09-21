@@ -1,0 +1,19 @@
+curl --compressed -o data/air-quality/waqi-covid-2022.csv   https://aqicn.org/data-platform/covid19/report/37502-f64ff936/2022
+curl --compressed -o data/air-quality/waqi-covid-2021Q1.csv https://aqicn.org/data-platform/covid19/report/37502-f64ff936/2021Q1
+curl --compressed -o data/air-quality/waqi-covid-2021Q2.csv https://aqicn.org/data-platform/covid19/report/37502-f64ff936/2021Q2
+curl --compressed -o data/air-quality/waqi-covid-2021Q3.csv https://aqicn.org/data-platform/covid19/report/37502-f64ff936/2021Q3
+curl --compressed -o data/air-quality/waqi-covid-2021Q4.csv https://aqicn.org/data-platform/covid19/report/37502-f64ff936/2021Q4
+curl --compressed -o data/air-quality/waqi-covid-2020Q1.csv https://aqicn.org/data-platform/covid19/report/37502-f64ff936/2020Q1
+curl --compressed -o data/air-quality/waqi-covid-2020Q2.csv https://aqicn.org/data-platform/covid19/report/37502-f64ff936/2020Q2
+curl --compressed -o data/air-quality/waqi-covid-2020Q3.csv https://aqicn.org/data-platform/covid19/report/37502-f64ff936/2020Q3
+curl --compressed -o data/air-quality/waqi-covid-2020Q4.csv https://aqicn.org/data-platform/covid19/report/37502-f64ff936/2020Q4
+curl --compressed -o data/air-quality/waqi-covid-2019Q1.csv https://aqicn.org/data-platform/covid19/report/37502-f64ff936/2019Q1
+curl --compressed -o data/air-quality/waqi-covid-2019Q2.csv https://aqicn.org/data-platform/covid19/report/37502-f64ff936/2019Q2
+curl --compressed -o data/air-quality/waqi-covid-2019Q3.csv https://aqicn.org/data-platform/covid19/report/37502-f64ff936/2019Q3
+curl --compressed -o data/air-quality/waqi-covid-2019Q4.csv https://aqicn.org/data-platform/covid19/report/37502-f64ff936/2019Q4
+curl --compressed -o data/air-quality/waqi-covid-2018H1.csv https://aqicn.org/data-platform/covid19/report/37502-f64ff936/2018H1
+curl --compressed -o data/air-quality/waqi-covid-2017H1.csv https://aqicn.org/data-platform/covid19/report/37502-f64ff936/2017H1
+curl --compressed -o data/air-quality/waqi-covid-2016H1.csv https://aqicn.org/data-platform/covid19/report/37502-f64ff936/2016H1
+curl --compressed -o data/air-quality/waqi-covid-2015H1.csv https://aqicn.org/data-platform/covid19/report/37502-f64ff936/2015H1
+
+curl --compressed -o data/air-quality/airquality-covid19-cities.json https://aqicn.org/data-platform/covid19/airquality-covid19-cities.json
