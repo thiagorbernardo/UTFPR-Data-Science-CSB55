@@ -1,7 +1,0 @@
-pandas
-numpy
-matplotlib
-seaborn
-lda_over_time
-spacy
-pydantic==1.10.2

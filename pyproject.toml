@@ -1,0 +1,21 @@
+[tool.poetry]
+name = "utfpr-data-science-csb55"
+version = "0.1.0"
+description = ""
+authors = ["Thiago Ramos <thiagorbernardo@hotmail.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.10"
+pandas = "^1.5.3"
+numpy = "^1.24.2"
+matplotlib = "^3.7.1"
+seaborn = "^0.12.2"
+spacy = "^3.5.1"
+pydantic = "1.10.2"
+lda-over-time = {path = "packages/lda_over_time"}
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
